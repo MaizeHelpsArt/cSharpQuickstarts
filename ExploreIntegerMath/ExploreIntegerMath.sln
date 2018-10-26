@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploreIntegerMath", "ExploreIntegerMath\ExploreIntegerMath.csproj", "{DD1F194B-7A3C-4CCA-9227-BD1A1DF2CC34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1F194B-7A3C-4CCA-9227-BD1A1DF2CC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1F194B-7A3C-4CCA-9227-BD1A1DF2CC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1F194B-7A3C-4CCA-9227-BD1A1DF2CC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1F194B-7A3C-4CCA-9227-BD1A1DF2CC34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCF03D47-E7B8-4D5B-B167-AF3B54010A87}
+	EndGlobalSection
+EndGlobal
